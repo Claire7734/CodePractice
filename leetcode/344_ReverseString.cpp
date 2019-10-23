@@ -1,3 +1,5 @@
+#include "LeetCodeTest.h"
+
 class Solution {
 public:
     void reverseString(vector<char>& s) {
@@ -9,3 +11,11 @@ public:
 	}
     }
 };
+
+vector<char> run_344()
+{
+	vector<char> s = {'2','t','6'};
+        Solution test;
+        test.reverseString(s);
+	return s;
+}
