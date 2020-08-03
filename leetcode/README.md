@@ -3,13 +3,16 @@
 ## 2020
 
 ### 8.3
-* 136. Single Number
-XOR:
-(a^b)^c == a^(b^c)
-x^x=0, x^0=x
-a^b^b=a^0=a 
+* 136 Single Number
 
-* 206. Reverse Linked List
+XOR:
+
+`(a^b)^c == a^(b^c); 
+x^x=0, x^0=x; 
+a^b^b=a^0=a`
+
+* 206 Reverse Linked List
+
 Interesting solution on Recursion 
 
 ### 4.30
