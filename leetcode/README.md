@@ -9,6 +9,9 @@ XOR:
 x^x=0, x^0=x
 a^b^b=a^0=a 
 
+* 206. Reverse Linked List
+Interesting solution on Recursion 
+
 ### 4.30
 * 617_mergeTrees
 
