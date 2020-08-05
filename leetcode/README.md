@@ -2,7 +2,18 @@
 
 ## 2020
 
+### 8.5
+
+* 169 Majority Element
+
+Boyer-Moore Voting Algorithm 多数投票算法
+
+一堆数中找到众数(count>n/2)
+
+时间复杂度O(n), 空间复杂度O(1)
+
 ### 8.3
+
 * 136 Single Number
 
 XOR:
@@ -27,7 +38,7 @@ Interesting solution on Recursion
 
  	- python3 list 基本语法
  	- bitmask写法
- 	
+
  	```
  	nth_bit = 1 << n
  	for i in range(2**n)
@@ -55,7 +66,7 @@ Interesting solution on Recursion
 * 344_ReverseString
 
   Too simple. No comment.
-        
+  
 * Init program for coding and related Makefile
   
   Makefile ref: [C++之makefile写法](https://blog.csdn.net/zong596568821xp/article/details/81134406)
